@@ -1,10 +1,18 @@
-is the data_int.dat file just data that is in binary format??
+what is this queue stuff for the first part of workstation?
+    those orders names dont have anyting to do with queues. 
+    what is it even talking about?? queues that data structure or a line ?
 
-what functions do we have to do for this??:
+for the LM run function, i dont know how it decided to fill the orders for each iteration.
 
 
+i dont know why theres   Processed Orders (incomplete)  section.
 
-how do you read the total number of files from the istream?
+
+what is a double ended queue?
+
+are the global variables member variables? or enum?
+    should the global variables be static?
+
 
 
 
