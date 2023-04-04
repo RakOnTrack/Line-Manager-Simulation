@@ -1,0 +1,10 @@
+is the data_int.dat file just data that is in binary format??
+
+what functions do we have to do for this??:
+
+
+
+how do you read the total number of files from the istream?
+
+
+
